@@ -6,6 +6,13 @@ td {
   width:30px;
   border:1px solid;
   text-align:center;
+ 
+}
+.start{
+	background:grey;
+}
+.solution{
+	background:green;
 }
 td:first-child {
   border-left:solid;
